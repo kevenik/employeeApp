@@ -1,0 +1,17 @@
+
+
+.container-form1{
+    float: right;
+    width: 50%;
+    margin-top: 10%;
+    margin-right: 25%;
+    background: rgba(250, 240, 240, 0.9);
+    
+    border-radius: 20px;
+}
+.container-form1 .log{
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+} 
+
